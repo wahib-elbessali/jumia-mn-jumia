@@ -1,6 +1,10 @@
 # Jumia-mn-Jumia 🛒
 Modern e-commerce platform with Jumia-inspired features and admin dashboard.
 
+## Screenshots 📸
+![Screenshot](./screenshots/1.png)
+![Screenshot](./screenshots/2.png)
+
 ## Features 🚀
 
 - **User System** 👥  
