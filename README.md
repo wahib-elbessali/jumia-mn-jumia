@@ -31,7 +31,7 @@ Modern e-commerce platform with Jumia-inspired features and admin dashboard.
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/your-username/jumia-mn-jumia.git
+git clone https://github.com/wahib-elbessali/jumia-mn-jumia.git
 cd jumia-mn-jumia
 ```
 
